@@ -13,6 +13,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
- ## Project Setup
-
-This is the directory that contains the main TF configuration and creates the initial project layout in GCP .
+ ## Example Architecture
